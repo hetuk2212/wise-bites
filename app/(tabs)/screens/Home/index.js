@@ -262,7 +262,7 @@ const Home = () => {
           </View>
           <View style={styles.reportView}>
             <Text style={styles.reportText}>Conclusion</Text>
-            <Text style={styles.reportType}>Your report are good.</Text>
+            <Text style={styles.reportType}>Your reports are normal.</Text>
           </View>
         </View>
       </ScrollView>
